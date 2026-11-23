@@ -221,3 +221,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# MSc TAWOS Thesis - Local files
+data/
+*.sql
+*.zip
+results/
+.venv*/
+.env.*
+*.pem
+*.key
+.DS_Store
