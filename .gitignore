@@ -226,7 +226,6 @@ __marimo__/
 data/
 *.sql
 *.zip
-results/
 .venv*/
 .env.*
 *.pem
